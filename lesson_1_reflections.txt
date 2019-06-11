@@ -1,0 +1,23 @@
+By hand
+by using command line FC in windows/diff in mac
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+this thing given a power for the programmer to see the stages that the program progres and see the update on it
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+there is a diiferent on space an the number of commits, and the avalibality of read the commits.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+***************
+
+How can you use the commands git log and git diff to view the history of files?
+
+use git log th display the commits and when found our aim press q then puut git diff and copy the commit id for the next commit and past it and copy the aim commit id and past it.
+
+How might using version control make you more confident to make changes that could break something?
+
+no , because i can back to any commit i was made by git checkout id
+
+Now that you have your workspace set up, what do you want to try using Git for?
+******************
